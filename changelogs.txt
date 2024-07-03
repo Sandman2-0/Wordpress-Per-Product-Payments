@@ -1,7 +1,7 @@
-View all the plugin releases here: 
+View all the plugin releases here : 
 https://github.com/Sandman2-0/Wordpress-Per-Product-Payments/releases
 
 == Changelogs ==
 
-Current Version: 1.1.0:
+Current Version: 1.1.0 :
 -> Added dashboard update support
