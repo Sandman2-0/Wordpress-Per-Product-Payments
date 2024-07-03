@@ -1,4 +1,5 @@
-View all the releases here: https://github.com/Sandman2-0/Wordpress-Per-Product-Payments/releases
+View all the plugin releases here: 
+https://github.com/Sandman2-0/Wordpress-Per-Product-Payments/releases
 
 == Changelogs ==
 
